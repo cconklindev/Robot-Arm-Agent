@@ -1,8 +1,8 @@
 # Robotic Arm RL Agent
 
 ## Files Included
-- roboticarmagent.py — main script for training and evaluating the reinforcement learning robotic arm agent
-- RoboticArmAgent.docx — report describing design, algorithms, implementation, and results
+- roboticarmagent.py - main script for training and evaluating the reinforcement learning robotic arm agent
+- RoboticArmAgent.docx - report describing design, algorithms, implementation, and results
 
 ## How to Run
 
